@@ -4,3 +4,12 @@ error_output
 
 # macOS
 \.DS_Store
+
+# Local texture files (only test frequencies are committed)
+textures/conversion/
+textures/directivity_textures/*
+!textures/directivity_textures/genelec8020_directivity_125Hz.exr
+!textures/directivity_textures/genelec8020_directivity_250Hz.exr
+!textures/directivity_textures/genelec8020_directivity_500Hz.exr
+!textures/directivity_textures/genelec8020_directivity_1000Hz.exr
+!textures/directivity_textures/genelec8020_directivity_20000Hz.exr
