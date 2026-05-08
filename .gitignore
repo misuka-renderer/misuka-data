@@ -14,3 +14,4 @@ textures/directivity_textures/*
 !textures/directivity_textures/genelec8020_directivity_500Hz.exr
 !textures/directivity_textures/genelec8020_directivity_1000Hz.exr
 !textures/directivity_textures/genelec8020_directivity_20000Hz.exr
+*.sofa
